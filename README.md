@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **swethasusi4@gmail.com**
 
-- 📄 Know about my experiences [mangenasuswetha.github.io/Resume/](mangenasuswetha.github.io/Resume/)
+- 📄 Know about my experiences [mangenasuswetha.github.io/Resume/](https://mangenasuswetha.github.io/Resume/)
 
 - ⚡ Fun fact **I'm fluent in four languages**
 
