@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suswetha Mangena</h1>
 <h3 align="center">AI Enthusiast & Business Analytics Aspirant</h3>
 
+<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
+
 - 🔭 I’m currently working on **building predictive models to forecast market trends.**
 
 - 🌱 I’m currently learning **Generative AI, Agile, Google Cloud AI Platform**
